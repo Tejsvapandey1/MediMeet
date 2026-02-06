@@ -1,0 +1,139 @@
+[00:00:15.662] Server  LOG     ✓ Ready in 10.7s
+[00:01:51.333] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:51.653] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:02:35.307] Server  LOG     ✓ Compiled in 440ms
+[00:02:38.232] Server  ERROR   ⨯ Error: React.Children.only expected to receive a single React element child.
+[00:02:39.126] Browser ERROR   uncaughtError: Error: React.Children.only expected to receive a single React element child.
+[00:04:06.777] Server  LOG     ✓ Compiled in 694ms
+[00:04:08.157] Server  ERROR   ⨯ Error: Failed prop type: The prop `href` expects a `string` or `object` in `<Link>`, but got `undefined` instead.
+[00:04:09.127] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:04:09.564] Browser ERROR   uncaughtError: Error: Failed prop type: The prop `href` expects a `string` or `object` in `<Link>`, but got `undefined` instead.
+Open your browser's console to view the Component stack trace.
+[00:04:09.875] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:04:37.283] Server  LOG     ✓ Compiled in 170ms
+[00:04:41.133] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:04:41.448] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:05:11.739] Server  LOG     ✓ Compiled in 146ms
+[00:06:06.148] Server  LOG     ✓ Compiled in 318ms
+[00:06:28.559] Server  LOG     ✓ Compiled in 294ms
+[00:07:12.428] Server  LOG     ✓ Compiled in 307ms
+[00:07:33.584] Server  LOG     ✓ Compiled in 172ms
+[00:08:59.934] Server  LOG     ✓ Compiled in 754ms
+[00:09:02.087] Browser WARN    Image with src "/banner2.png" has "fill" and parent element with invalid "position". Provided "static" should be one of absolute,fixed,relative.
+[00:09:43.731] Server  LOG     ✓ Compiled in 522ms
+[00:11:32.404] Server  LOG     ✓ Compiled in 267ms
+[00:12:25.481] Server  LOG     ✓ Compiled in 332ms
+[00:14:29.894] Server  LOG     ✓ Compiled in 557ms
+[00:15:31.372] Server  LOG     ✓ Compiled in 114ms
+[00:15:40.332] Server  LOG     ✓ Compiled in 169ms
+[00:15:51.111] Server  LOG     ✓ Compiled in 202ms
+[00:16:02.484] Server  LOG     ✓ Compiled in 216ms
+[00:17:09.073] Server  LOG     ✓ Compiled in 112ms
+[00:17:35.867] Server  LOG     ✓ Compiled in 427ms
+[00:17:45.798] Server  LOG     ✓ Compiled in 136ms
+[00:17:50.287] Server  LOG     ✓ Compiled in 153ms
+[00:18:24.485] Server  LOG     ✓ Compiled in 151ms
+[00:19:16.922] Server  LOG     ✓ Compiled in 547ms
+[00:21:11.038] Server  LOG     ✓ Compiled in 711ms
+[00:21:43.418] Server  LOG     ✓ Compiled in 531ms
+[00:24:21.982] Server  LOG     ✓ Compiled in 1437ms
+[00:24:22.603] Server  ERROR   ⨯ ReferenceError: CardTitle is not defined
+[00:24:23.443] Browser ERROR   uncaughtError: ReferenceError: CardTitle is not defined
+[00:24:29.913] Server  LOG     ✓ Compiled in 249ms
+[00:24:31.614] Server  ERROR   Each child in a list should have a unique "key" prop. See https://react.dev/link/warning-keys for more information.
+[00:24:35.526] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:24:36.428] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:24:37.174] Browser WARN    Image with src "/banner2.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:25:28.761] Server  LOG     ✓ Compiled in 305ms
+[00:25:29.698] Server  ERROR   Each child in a list should have a unique "key" prop. See https://react.dev/link/warning-keys for more information.
+[00:26:39.254] Server  LOG     ✓ Compiled in 561ms
+[00:26:41.036] Server  ERROR   Each child in a list should have a unique "key" prop. See https://react.dev/link/warning-keys for more information.
+[00:27:32.513] Server  LOG     ✓ Compiled in 360ms
+[00:28:11.914] Server  LOG     ✓ Compiled in 624ms
+[00:28:34.561] Server  LOG     ✓ Compiled in 537ms
+[00:28:44.298] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:28:44.864] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:31:24.522] Server  LOG     ✓ Compiled in 419ms
+[00:31:25.333] Server  ERROR   ⨯ ReferenceError: Stethoscope is not defined
+[00:31:26.440] Browser ERROR   uncaughtError: ReferenceError: Stethoscope is not defined
+[00:32:50.572] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:32:50.584] Server  LOG     ✓ Compiled in 386ms
+[00:32:52.162] Server  ERROR   ⨯ ReferenceError: Stethoscope is not defined
+[00:32:56.457] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:32:58.903] Browser ERROR   uncaughtError: ReferenceError: Stethoscope is not defined
+[00:33:02.096] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:33:09.146] Server  ERROR   ⨯ ReferenceError: creditBenefits is not defined
+[00:33:11.414] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:33:12.655] Browser ERROR   uncaughtError: ReferenceError: creditBenefits is not defined
+[00:33:14.207] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:33:18.918] Server  LOG     ✓ Compiled in 355ms
+[00:33:25.276] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:33:26.751] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:33:29.582] Browser ERROR   uncaughtError: Error: Hydration failed because the server rendered HTML didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+https://react.dev/link/hydration-mismatch
+
+  ...
+    <SegmentViewNode type="page" pagePath="page.js">
+      <SegmentTrieNode>
+      <Home>
+        <div className={"bg-backg..."}>
+          <section>
+          <section>
+          <section id="pricing" className="py-20">
+            <div className="container ...">
+              <div>
+              <div className="mx-auto">
+                <Pricing>
+                  <Card className="border-eme...">
+                    <div data-slot="card" className="text-card-...">
+                      <CardContent className="p-6 md:p-8">
+                        <div data-slot="card-content" className="p-6 md:p-8">
+                          <withClerk(PricingTable) checkoutProps={{...}}>
+                            <PricingTable checkoutProps={{...}} component="PricingTable" clerk={{clerkjs:{...}, ...}}>
+                              <ClerkHostRenderer component="PricingTable" mount={function} unmount={function} ...>
++                               <div ref={{current:null}} data-clerk-component="PricingTable">
+                ...
+    ...
+
+[00:33:29.582] Browser ERROR   uncaughtError: e: Clerk: 🔒 
+The <PricingTable/> component cannot be rendered when billing is disabled. Visit 'https://dashboard.clerk.com/last-active?path=billing/settings' to follow the necessary steps to enable billing. Since billing is disabled, this is no-op.
+(This notice only appears in development)
+
+(code="cannot_render_billing_disabled")
+
+
+[00:34:07.456] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:34:07.498] Server  LOG     ✓ Compiled in 249ms
+[00:34:11.765] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:34:13.403] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:34:15.538] Browser ERROR   uncaughtError: e: Clerk: 🔒 
+The <PricingTable/> component cannot be rendered when billing is disabled. Visit 'https://dashboard.clerk.com/last-active?path=billing/settings' to follow the necessary steps to enable billing. Since billing is disabled, this is no-op.
+(This notice only appears in development)
+
+(code="cannot_render_billing_disabled")
+
+
+[00:36:23.409] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:36:24.123] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:36:38.523] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:36:38.905] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:36:39.161] Browser WARN    Image with src "/banner2.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:36:56.131] Server  LOG     ✓ Compiled in 166ms
+[00:37:56.068] Server  LOG     ✓ Compiled in 121ms
+[00:39:53.587] Server  LOG     ✓ Compiled in 456ms
+[00:39:55.704] Server  ERROR   ⨯ ReferenceError: testimonials is not defined
+[00:39:56.335] Browser ERROR   uncaughtError: ReferenceError: testimonials is not defined
+[00:40:07.477] Server  LOG     ✓ Compiled in 263ms
+[00:40:10.923] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:40:11.164] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:40:11.410] Browser WARN    Image with src "/banner2.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:40:33.846] Server  LOG     ✓ Compiled in 385ms
