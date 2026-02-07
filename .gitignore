@@ -44,3 +44,4 @@ next-env.d.ts
 ./private.keynode_modules/
 node_modules/
 node_modules/
+/lib/generated/prisma
