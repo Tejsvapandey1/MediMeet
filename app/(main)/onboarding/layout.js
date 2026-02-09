@@ -9,7 +9,6 @@ export const metadata = {
 export default async function OnboardingLayout({ children }) {
   // Get complete user profile
   const user = await getCurrentUser();
-  console.log(user.role)
 
   // Redirect users who have already completed onboarding
   if (user) {
@@ -28,7 +27,7 @@ export default async function OnboardingLayout({ children }) {
   }
 
   return (
-    <div className=" mx-auto px-4 ">
+    <div className=" mx-auto px-4 py-12">
       <div className="max-w-3xl mx-auto">
         <div className="text-center mb-10">
           <h1 className="text-3xl font-bold text-white mb-2">

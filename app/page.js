@@ -35,7 +35,7 @@ export default function Home() {
                   size="lg"
                   className={"bg-emerald-600 text-white hover:bg-emerald-700"}
                 >
-                  <Link href={"/boarding"}>
+                  <Link href={"/onboarding"}>
                     Get Started <ArrowRight className="ml-2 h-4 w-4" />
                   </Link>
                 </Button>

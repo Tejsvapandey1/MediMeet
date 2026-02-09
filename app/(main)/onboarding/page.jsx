@@ -13,7 +13,7 @@ import {
 import { Button } from "@/components/ui/button";
 import { User, Stethoscope, Loader2 } from "lucide-react";
 import { setUserRole } from "@/actions/onboarding";
-import { doctorFormSchema } from "@/lib/schema";
+// import { doctorFormSchema } from "@/lib/schema";
 import useFetch from "@/hooks/use-fetch";
 import { useEffect } from "react";
 
@@ -25,24 +25,23 @@ export default function OnboardingPage() {
   const { loading, data, fn: submitUserRole } = useFetch(setUserRole);
 
   // React Hook Form setup with Zod validation
-  const {
-    register,
-    handleSubmit,
-    formState: { errors },
-    setValue,
-    watch,
-  } = useForm({
-    resolver: zodResolver(doctorFormSchema),
-    defaultValues: {
-      specialty: "",
-      experience: undefined,
-      credentialUrl: "",
-      description: "",
-    },
-  });
+//   const {
+//     register,
+//     handleSubmit,
+//     formState: { errors },
+//     setValue,
+//     watch,
+//   } = useForm({
+//     resolver: zodResolver(doctorFormSchema),
+//     defaultValues: {
+//       specialty: "",
+//       experience: undefined,
+//       credentialUrl: "",
+//       description: "",
+//     },
+//   });
 
   // Watch specialty value for controlled select component
-  const specialtyValue = watch("specialty");
 
   // Handle patient role selection
   const handlePatientSelection = async () => {
@@ -50,8 +49,8 @@ export default function OnboardingPage() {
 
     const formData = new FormData();
     formData.append("role", "PATIENT");
-
-    await submitUserRole(formData);
+    await submitUserRole("PATIENT");
+    console.log("Last Step clear");
   };
 
   useEffect(() => {

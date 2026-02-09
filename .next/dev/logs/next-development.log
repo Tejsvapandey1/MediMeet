@@ -1,255 +1,61 @@
-[00:00:03.585] Server  LOG     ✓ Ready in 2.7s
-[00:00:59.566] Server  LOG     Hello i am the user
-
-[00:01:06.028] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:01:06.995] Browser WARN    Image with src "/banner2.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:01:06.995] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
-[00:18:02.909] Server  LOG     Hello i am the user
-
-[00:18:05.793] Server  ERROR   ⨯ ReferenceError: checkAndAllocateCredits is not defined
-[00:18:08.408] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:18:09.668] Browser ERROR   uncaughtError: ReferenceError: checkAndAllocateCredits is not defined
-[00:18:11.819] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
-[00:18:58.679] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
-[00:18:58.701] Server  LOG     ✓ Compiled in 1696ms
-[00:18:58.809] Browser ERROR   unhandledRejection: Error: No link element found for chunk /_next/static/chunks/%5Broot-of-the-server%5D__66cffb39._.css
-[00:19:01.639] Server  LOG     Hello i am the user
-
-[00:19:03.992] Server  ERROR   ⨯ ReferenceError: Calendar is not defined
-[00:19:06.294] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:19:07.471] Browser ERROR   uncaughtError: ReferenceError: Calendar is not defined
-[00:19:08.806] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
-[00:19:39.609] Server  LOG     ✓ Compiled in 988ms
-[00:19:42.489] Server  LOG     Hello i am the user
-
-[00:19:48.339] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:19:50.165] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
-[00:20:01.507] Server  LOG     ○ Compiling /_not-found/page ...
-[00:20:04.408] Server  LOG     Hello i am the user
-
-[00:20:11.448] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:20:12.490] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
-[00:20:13.367] Server  LOG     Hello i am the user
-
-[00:20:17.391] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:20:18.218] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
-[00:20:30.794] Server  LOG     Hello i am the user
-
-[00:20:34.761] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:20:36.671] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
-[00:52:35.411] Server  LOG     Hello i am the user
-
-[00:52:40.332] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:52:41.575] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
-[00:54:41.411] Server  LOG     Hello i am the user
-
-[00:54:45.867] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:54:47.933] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
-[01:19:05.560] Browser WARN    You may test your Stripe.js integration over HTTP. However, live Stripe.js integrations must use HTTPS.
-[01:19:18.913] Server  LOG     Hello i am the user
-
-[01:19:19.643] Server  LOG     Hello i am the user
-
-[01:19:20.474] Server  LOG     Hello i am the user
-
-[01:19:20.757] Server  LOG     Hello i am the user
-
-[01:19:26.624] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:19:27.889] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
-[01:24:05.214] Server  LOG     ✓ Compiled in 271ms
-[01:24:07.813] Server  LOG     Hello i am the user
-
-[01:24:08.022] Server  LOG     Hello i am the user
-
-[01:24:10.022] Server  LOG     Hello i am the user
-
-[01:24:15.897] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:24:16.820] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
-[01:24:37.438] Server  LOG     Hello i am the user
-
-[01:24:41.903] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:24:44.647] Server  LOG     Hello i am the user
-
-[01:24:50.967] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:24:51.870] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
-[01:25:04.487] Server  LOG     Hello i am the user
-
-[01:25:11.151] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:25:12.671] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
-[01:26:49.987] Browser ERROR   ./actions/credit.js:3:7
-Ecmascript file had an error
-  1 | "use server"
-  2 |
-> 3 | const checkAndAllocatedCredits = (user) => {
-    |       ^^^^^^^^^^^^^^^^^^^^^^^^
-  4 |   return (
-  5 |     <div>
-  6 |       
-
-Server Actions must be async functions.
-
-Import trace:
-  Server Component:
-    ./actions/credit.js
-    ./components/header.jsx
-    ./app/layout.js
-[01:30:02.446] Browser ERROR   ./actions/credit.js:3:7
-Ecmascript file had an error
-  1 | "use server"
-  2 |
-> 3 | const checkAndAllocatedCredits = (user) => {
-    |       ^^^^^^^^^^^^^^^^^^^^^^^^
-  4 |   return (
-  5 |     <div>
-  6 |       
-
-Server Actions must be async functions.
-
-Import trace:
-  Server Component:
-    ./actions/credit.js
-    ./components/header.jsx
-    ./app/layout.js
-[01:32:37.089] Browser ERROR   ./actions/credit.js:13:7
-Ecmascript file had an error
-  11 | const APPOINTMENT_CREDIT_COST = 2;
-  12 |
-> 13 | const checkAndAllocatedCredits = (user) => {
-     |       ^^^^^^^^^^^^^^^^^^^^^^^^
-  14 |   try{
-  15 |     if(!user) {
-  16 |         console.log("user is not there")
-
-Server Actions must be async functions.
-
-Import trace:
-  Server Component:
-    ./actions/credit.js
-    ./components/header.jsx
-    ./app/layout.js
-[01:32:55.154] Server  LOG     ✓ Compiled in 760ms
-[01:32:58.622] Server  LOG     Hello i am the user
-
-[01:32:59.001] Server  LOG     Hello i am the user
-
-[01:33:03.950] Server  LOG     Hello i am the user
-
-[01:33:08.880] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:33:09.994] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
-[01:34:30.813] Server  LOG     Hello i am the user
-
-[01:34:31.434] Server  LOG     Hello i am the user
-
-[01:39:06.244] Server  LOG     ✓ Compiled in 2.5s
-[01:39:08.071] Server  LOG     Hello i am the user
-
-[01:39:08.554] Server  LOG     Hello i am the user
-
-[01:46:29.516] Server  LOG     ✓ Compiled in 1875ms
-[01:46:32.455] Server  LOG     Hello i am the user
-
-[01:46:32.656] Server  LOG     Hello i am the user
-
-[01:46:36.254] Server  ERROR   Failed to check subscription and allocate credits: "db is not defined"
-[01:46:36.539] Server  ERROR   Failed to check subscription and allocate credits: "db is not defined"
-[01:49:29.952] Server  LOG     ✓ Compiled in 628ms
-[01:49:31.317] Server  LOG     Hello i am the user
-
-[01:49:31.994] Server  LOG     Hello i am the user
-
-[01:49:36.266] Server  ERROR   Failed to check subscription and allocate credits: "Route / used \"revalidatePath /doctors\" during render which is unsupported. To ensure revalidation is performed consistently it must always happen outside of renders and cached functions. See more info here: https://nextjs.org/docs/app/building-your-application/rendering/static-and-dynamic#dynamic-rendering"
-[01:49:37.253] Server  ERROR   Failed to check subscription and allocate credits: "Route / used \"revalidatePath /doctors\" during render which is unsupported. To ensure revalidation is performed consistently it must always happen outside of renders and cached functions. See more info here: https://nextjs.org/docs/app/building-your-application/rendering/static-and-dynamic#dynamic-rendering"
-[01:58:36.558] Server  LOG     ✓ Compiled in 1346ms
-[01:58:36.835] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[01:58:40.216] Server  LOG     Hello i am the user
-
-[01:58:42.056] Server  LOG     Hello i am the user
-
-[01:58:42.144] Server  LOG     Hello i am the user
-
-[01:58:42.777] Server  LOG     Hello i am the user
-
-[01:58:42.866] Server  LOG     Hello i am the user
-
-[01:58:43.156] Server  LOG     Hello i am the user
-
-[01:58:47.581] Server  LOG     Hello i am the user
-
-[01:58:47.635] Server  LOG     Hello i am the user
-
-[01:58:48.361] Server  LOG     Hello i am the user
-
-[01:58:48.683] Server  LOG     Hello i am the user
-
-[01:58:48.744] Server  LOG     Hello i am the user
-
-[01:58:49.160] Server  LOG     Hello i am the user
-
-[01:58:49.817] Server  LOG     Hello i am the user
-
-[01:58:50.751] Server  LOG     Hello i am the user
-
-[01:58:56.411] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:58:58.219] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
-[01:59:03.373] Browser ERROR   uncaughtError: Error: Hydration failed because the server rendered HTML didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:
-
-- A server/client branch `if (typeof window !== 'undefined')`.
-- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
-- Date formatting in a user's locale which doesn't match the server.
-- External changing data without sending a snapshot of it along with the HTML.
-- Invalid HTML tag nesting.
-
-It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
-
-https://react.dev/link/hydration-mismatch
-
-  ...
-    <SegmentViewNode type="page" pagePath="page.js">
-      <SegmentTrieNode>
-      <Home>
-        <div className={"bg-backg..."}>
-          <section>
-          <section>
-          <section id="pricing" className="py-20">
-            <div className="container ...">
-              <div>
-              <div className="mx-auto">
-                <Pricing>
-                  <Card className={" relativ..."}>
-                    <div data-slot="card" className="text-card-...">
-                      <div>
-                      <CardContent className="relative p...">
-                        <div data-slot="card-content" className="relative p...">
-                          <withClerk(PricingTable) checkoutProps={{...}}>
-                            <PricingTable checkoutProps={{...}} component="PricingTable" clerk={{clerkjs:{...}, ...}}>
-                              <ClerkHostRenderer component="PricingTable" mount={function} unmount={function} ...>
-+                               <div ref={{current:null}} data-clerk-component="PricingTable">
-                ...
-          ...
-    ...
-
-[01:59:14.938] Server  LOG     ✓ Compiled in 1135ms
-[01:59:15.153] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[01:59:16.079] Server  LOG     ✓ Compiled in 10ms
-[01:59:18.064] Server  LOG     Hello i am the user
-
-[01:59:18.390] Server  LOG     Hello i am the user
-
-[01:59:18.842] Server  LOG     Hello i am the user
-
-[01:59:19.862] Server  LOG     Hello i am the user
-
-[01:59:20.396] Server  LOG     Hello i am the user
-
-[01:59:20.799] Server  LOG     Hello i am the user
-
-[01:59:25.249] Server  LOG     Hello i am the user
-
-[01:59:25.580] Server  LOG     Hello i am the user
-
-[01:59:26.314] Server  LOG     Hello i am the user
-
-[01:59:26.944] Server  LOG     Hello i am the user
-
-[01:59:33.219] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:59:34.415] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:00:02.645] Server  LOG     ✓ Ready in 1829ms
+[00:00:08.073] Server  LOG     Hello i am the user
+
+[00:00:14.676] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:16.294] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:00:25.326] Browser LOG     formData
+ {}
+[00:00:25.326] Browser LOG     Step 1 clear
+[00:00:25.416] Server  LOG     step 2 formData [{}]
+[00:00:25.433] Server  LOG     we are not able to reach here
+[00:00:28.009] Server  LOG     step 3 user found
+[00:00:29.861] Server  ERROR   ⨯ TypeError: formData.get is not a function
+[00:00:30.031] Browser LOG     Last Step clear
+[00:01:17.568] Server  LOG     ✓ Compiled in 1750ms
+[00:04:03.513] Server  LOG     ✓ Compiled in 324ms
+[00:04:07.555] Browser LOG     Step 1 clear formData which we are sending
+ {}
+[00:04:08.726] Server  LOG     step 2 formData [{}]
+[00:04:08.776] Server  LOG     we are not able to reach here
+[00:04:14.160] Server  LOG     step 3 user found
+[00:04:15.827] Server  ERROR   ⨯ TypeError: formData.get is not a function
+[00:04:16.086] Browser LOG     Last Step clear
+[00:06:41.072] Server  LOG     ✓ Compiled in 198ms
+[00:06:45.985] Browser LOG     Step 1 clear formData which we are sending
+ PATIENT
+[00:06:47.381] Server  LOG     step 2 formData [{}]
+[00:06:47.448] Server  LOG     we are not able to reach here
+[00:06:50.326] Server  LOG     step 3 user found
+[00:06:51.569] Server  ERROR   ⨯ TypeError: formData.get is not a function
+[00:06:51.803] Browser LOG     Last Step clear
+[00:07:31.875] Server  LOG     ✓ Compiled in 1450ms
+[00:07:33.755] Server  LOG     Hello i am the user
+
+[00:07:34.634] Browser LOG     Step 1 clear formData which we are sending
+ PATIENT
+[00:07:36.261] Server  ERROR   ⨯ ReferenceError: Cannot access 'role' before initialization
+[00:07:36.464] Browser LOG     Last Step clear
+[00:08:06.942] Server  LOG     ✓ Compiled in 340ms
+[00:08:09.294] Server  LOG     Hello i am the user
+
+[00:08:09.972] Browser LOG     Step 1 clear formData which we are sending
+ PATIENT
+[00:08:10.120] Server  LOG     reached
+[00:08:11.714] Server  ERROR   ⨯ ReferenceError: Cannot access 'role' before initialization
+[00:08:11.971] Browser LOG     Last Step clear
+[00:09:14.542] Server  LOG     ✓ Compiled in 300ms
+[00:09:16.891] Server  LOG     Hello i am the user
+
+[00:09:22.473] Browser LOG     Step 1 clear formData which we are sending
+ PATIENT
+[00:09:22.550] Server  LOG     reached
+[00:09:23.635] Server  ERROR   ⨯ TypeError: formData.get is not a function
+[00:09:23.778] Browser LOG     Last Step clear
+[00:12:51.022] Server  LOG     ✓ Compiled in 272ms
+[00:13:21.212] Server  LOG     ✓ Compiled in 288ms
+[00:13:23.231] Server  LOG     Hello i am the user
+
+[00:13:31.775] Server  LOG     we are not able to reach here
+[00:13:32.151] Server  LOG     step 3 user found
+[00:13:33.403] Server  ERROR   ⨯ Error: Invalid role selection
+[00:13:33.795] Browser LOG     Last Step clear
