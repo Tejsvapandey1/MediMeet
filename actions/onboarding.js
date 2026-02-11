@@ -7,14 +7,14 @@ import { revalidatePath } from "next/cache";
 /**
  * Sets the user's role and related information
  */
-export async function setUserRole(formData) {
- 
+export async function setUserRole(data) {
+  console.log(data[0].role)
   const { userId } = await auth();
 
   if (!userId) {
     throw new Error("Unauthorized");
   }
-  console.log("we are not able to reach here")
+  console.log("we are not able to reach here");
 
   // Find user in our database
   const user = await db.user.findUnique({
@@ -23,9 +23,10 @@ export async function setUserRole(formData) {
 
   if (!user) throw new Error("User not found in database");
 
-  console.log("step 3 user found")
+  console.log("step 3 user found");
 
-  const role = formData
+  const role = data[0].role;
+  console.log(role + "from the client side");
 
   if (!role || !["PATIENT", "DOCTOR"].includes(role)) {
     throw new Error("Invalid role selection");
@@ -42,7 +43,7 @@ export async function setUserRole(formData) {
           role: "PATIENT",
         },
       });
-      console.log("database updated")
+      console.log("database updated");
 
       revalidatePath("/");
       return { success: true, redirect: "/doctors" };

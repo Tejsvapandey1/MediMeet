@@ -1,3 +1,5 @@
 {
-  "/(main)/onboarding/page": "app/(main)/onboarding/page.js"
+  "/(main)/doctors/page": "app/(main)/doctors/page.js",
+  "/(main)/onboarding/page": "app/(main)/onboarding/page.js",
+  "/page": "app/page.js"
 }

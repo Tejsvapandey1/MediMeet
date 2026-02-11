@@ -1,61 +1,125 @@
-[00:00:02.645] Server  LOG     ✓ Ready in 1829ms
-[00:00:08.073] Server  LOG     Hello i am the user
+[00:00:04.238] Server  LOG     ✓ Ready in 3.4s
+[00:00:12.158] Server  LOG     Hello i am the user
 
-[00:00:14.676] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:16.294] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
-[00:00:25.326] Browser LOG     formData
- {}
-[00:00:25.326] Browser LOG     Step 1 clear
-[00:00:25.416] Server  LOG     step 2 formData [{}]
-[00:00:25.433] Server  LOG     we are not able to reach here
-[00:00:28.009] Server  LOG     step 3 user found
-[00:00:29.861] Server  ERROR   ⨯ TypeError: formData.get is not a function
-[00:00:30.031] Browser LOG     Last Step clear
-[00:01:17.568] Server  LOG     ✓ Compiled in 1750ms
-[00:04:03.513] Server  LOG     ✓ Compiled in 324ms
-[00:04:07.555] Browser LOG     Step 1 clear formData which we are sending
- {}
-[00:04:08.726] Server  LOG     step 2 formData [{}]
-[00:04:08.776] Server  LOG     we are not able to reach here
-[00:04:14.160] Server  LOG     step 3 user found
-[00:04:15.827] Server  ERROR   ⨯ TypeError: formData.get is not a function
-[00:04:16.086] Browser LOG     Last Step clear
-[00:06:41.072] Server  LOG     ✓ Compiled in 198ms
-[00:06:45.985] Browser LOG     Step 1 clear formData which we are sending
- PATIENT
-[00:06:47.381] Server  LOG     step 2 formData [{}]
-[00:06:47.448] Server  LOG     we are not able to reach here
-[00:06:50.326] Server  LOG     step 3 user found
-[00:06:51.569] Server  ERROR   ⨯ TypeError: formData.get is not a function
-[00:06:51.803] Browser LOG     Last Step clear
-[00:07:31.875] Server  LOG     ✓ Compiled in 1450ms
-[00:07:33.755] Server  LOG     Hello i am the user
+[00:00:17.923] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:18.806] Browser WARN    Image with src "/banner2.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:18.806] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:00:30.612] Server  LOG     we are not able to reach here
+[00:00:30.951] Server  LOG     step 3 user found
+[00:00:32.209] Server  ERROR   ⨯ Error: Invalid role selection
+[00:00:32.356] Browser LOG     Last Step clear
+[00:01:34.569] Server  LOG     ✓ Compiled in 628ms
+[00:01:35.245] Server  LOG     Hello i am the user
 
-[00:07:34.634] Browser LOG     Step 1 clear formData which we are sending
- PATIENT
-[00:07:36.261] Server  ERROR   ⨯ ReferenceError: Cannot access 'role' before initialization
-[00:07:36.464] Browser LOG     Last Step clear
-[00:08:06.942] Server  LOG     ✓ Compiled in 340ms
-[00:08:09.294] Server  LOG     Hello i am the user
+[00:01:48.110] Server  LOG     ✓ Compiled in 341ms
+[00:01:48.597] Server  LOG     Hello i am the user
 
-[00:08:09.972] Browser LOG     Step 1 clear formData which we are sending
- PATIENT
-[00:08:10.120] Server  LOG     reached
-[00:08:11.714] Server  ERROR   ⨯ ReferenceError: Cannot access 'role' before initialization
-[00:08:11.971] Browser LOG     Last Step clear
-[00:09:14.542] Server  LOG     ✓ Compiled in 300ms
-[00:09:16.891] Server  LOG     Hello i am the user
+[00:01:53.539] Server  LOG     we are not able to reach here
+[00:01:54.133] Server  LOG     step 3 user found
+[00:01:54.139] Server  LOG     this is the role ["PATIENT"]
+[00:01:55.365] Server  ERROR   ⨯ Error: Invalid role selection
+[00:01:55.483] Browser LOG     Last Step clear
+[00:04:14.112] Server  LOG     ✓ Compiled in 353ms
+[00:04:14.854] Server  LOG     Hello i am the user
 
-[00:09:22.473] Browser LOG     Step 1 clear formData which we are sending
- PATIENT
-[00:09:22.550] Server  LOG     reached
-[00:09:23.635] Server  ERROR   ⨯ TypeError: formData.get is not a function
-[00:09:23.778] Browser LOG     Last Step clear
-[00:12:51.022] Server  LOG     ✓ Compiled in 272ms
-[00:13:21.212] Server  LOG     ✓ Compiled in 288ms
-[00:13:23.231] Server  LOG     Hello i am the user
+[00:06:53.967] Server  LOG     ✓ Compiled in 206ms
+[00:07:15.597] Server  LOG     we are not able to reach here
+[00:07:17.670] Server  LOG     step 3 user found
+[00:07:18.792] Server  ERROR   ⨯ TypeError: formData.get is not a function
+[00:07:19.079] Browser LOG     Last Step clear
+[00:10:02.488] Server  LOG     ✓ Compiled in 207ms
+[00:10:03.114] Server  LOG     Hello i am the user
 
-[00:13:31.775] Server  LOG     we are not able to reach here
-[00:13:32.151] Server  LOG     step 3 user found
-[00:13:33.403] Server  ERROR   ⨯ Error: Invalid role selection
-[00:13:33.795] Browser LOG     Last Step clear
+[00:10:26.187] Server  LOG     ✓ Compiled in 316ms
+[00:10:33.160] Server  LOG     we are not able to reach here
+[00:10:35.123] Server  LOG     step 3 user found
+[00:10:36.229] Server  ERROR   ⨯ ReferenceError: data is not defined
+[00:10:36.402] Browser LOG     Last Step clear
+[00:10:50.336] Server  LOG     ✓ Compiled in 671ms
+[00:10:51.451] Server  LOG     Hello i am the user
+
+[00:10:57.576] Server  LOG     we are not able to reach here
+[00:10:57.889] Server  LOG     step 3 user found
+[00:10:57.891] Server  LOG     undefinedfrom the client side
+[00:10:59.124] Server  ERROR   ⨯ Error: Invalid role selection
+[00:10:59.350] Browser LOG     Last Step clear
+[00:11:31.948] Server  LOG     ✓ Compiled in 486ms
+[00:11:32.546] Server  LOG     Hello i am the user
+
+[00:11:38.056] Server  LOG     [{...}]
+[00:11:38.064] Server  LOG     we are not able to reach here
+[00:11:38.435] Server  LOG     step 3 user found
+[00:11:38.438] Server  LOG     undefinedfrom the client side
+[00:11:39.582] Server  ERROR   ⨯ Error: Invalid role selection
+[00:11:39.712] Browser LOG     Last Step clear
+[00:12:01.461] Server  LOG     ✓ Compiled in 258ms
+[00:12:02.045] Server  LOG     Hello i am the user
+
+[00:12:10.732] Server  LOG     ✓ Compiled in 232ms
+[00:12:11.273] Server  LOG     Hello i am the user
+
+[00:12:17.421] Server  LOG     PATIENT
+[00:12:17.433] Server  LOG     we are not able to reach here
+[00:12:17.751] Server  LOG     step 3 user found
+[00:12:17.752] Server  LOG     PATIENTfrom the client side
+[00:12:18.104] Server  LOG     database updated
+[00:12:18.361] Browser LOG     Last Step clear
+[00:12:18.644] Server  LOG     Hello i am the user
+
+[00:12:21.310] Server  LOG     ○ Compiling /doctors ...
+[00:15:23.176] Server  LOG     ✓ Compiled in 145ms
+[00:17:21.554] Server  LOG     Hello i am the user
+
+[00:17:25.710] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:17:26.175] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:20:26.705] Server  LOG     ✓ Compiled in 897ms
+[00:20:26.918] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:20:26.918] Browser ERROR   uncaughtError: ReferenceError: doctorFormSchema is not defined
+[00:20:29.426] Server  LOG     Hello i am the user
+
+[00:20:31.436] Server  ERROR   ⨯ ReferenceError: doctorFormSchema is not defined
+[00:20:32.907] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:20:33.633] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:20:34.122] Browser ERROR   uncaughtError: ReferenceError: doctorFormSchema is not defined
+[00:22:34.190] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:22:34.204] Server  LOG     ✓ Compiled in 162ms
+[00:22:38.172] Server  LOG     Hello i am the user
+
+[00:22:40.625] Server  ERROR   ⨯ ReferenceError: doctorFormSchema is not defined
+[00:22:41.748] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:22:42.904] Browser ERROR   uncaughtError: ReferenceError: doctorFormSchema is not defined
+[00:22:42.904] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:24:38.202] Server  LOG     ✓ Compiled in 1200ms
+[00:24:38.306] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:24:40.588] Server  LOG     Hello i am the user
+
+[00:24:45.582] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:24:45.911] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:24:53.752] Browser ERROR   uncaughtError: ReferenceError: Label is not defined
+[00:25:18.730] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:25:18.740] Server  LOG     ✓ Compiled in 791ms
+[00:25:20.703] Server  LOG     Hello i am the user
+
+[00:25:25.164] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:25:25.665] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:25:27.510] Browser ERROR   uncaughtError: ReferenceError: Select is not defined
+[00:26:05.400] Server  LOG     ✓ Compiled in 3.1s
+[00:26:05.540] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:26:08.036] Server  LOG     Hello i am the user
+
+[00:26:13.296] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:26:13.647] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:26:15.086] Browser ERROR   uncaughtError: ReferenceError: specialtyValue is not defined
+[00:27:20.873] Server  LOG     ✓ Compiled in 334ms
+[00:27:20.886] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:27:23.281] Server  LOG     Hello i am the user
+
+[00:27:27.591] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:27:27.922] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:27:32.404] Browser ERROR   uncaughtError: ReferenceError: Input is not defined
+[00:27:58.303] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:27:58.313] Server  LOG     ✓ Compiled in 1645ms
+[00:28:00.683] Server  LOG     Hello i am the user
+
+[00:28:04.871] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:28:05.105] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
