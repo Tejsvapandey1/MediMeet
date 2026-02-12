@@ -10,7 +10,7 @@ import Link from "next/link";
 import React from "react";
 import { Button } from "./ui/button";
 import { checkUser } from "@/lib/checkUser";
-import { Calendar, CreditCard, ShieldCheck, User } from "lucide-react";
+import { Calendar, CreditCard, ShieldCheck, Stethoscope, User } from "lucide-react";
 import { Badge } from "./ui/badge";
 import checkAndAllocatedCredits from "@/actions/credit";
 

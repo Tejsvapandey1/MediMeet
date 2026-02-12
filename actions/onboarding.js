@@ -51,10 +51,10 @@ export async function setUserRole(data) {
 
     // For doctor role - need additional information
     if (role === "DOCTOR") {
-      const specialty = formData.get("specialty");
-      const experience = parseInt(formData.get("experience"), 10);
-      const credentialUrl = formData.get("credentialUrl");
-      const description = formData.get("description");
+      const specialty = data[0].specialty;
+      const experience = parseInt(data[0].experience);
+      const credentialUrl = data[0].credentialUrl;
+      const description = data[0].description;
 
       // Validate inputs
       if (!specialty || !experience || !credentialUrl || !description) {
